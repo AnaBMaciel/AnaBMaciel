@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Ana!
 🎓 I am pursuing a degree in Software Engineering at the Catholic University of Brasília.<br>
 👩🏽‍💻 Currently learning about HTML, CSS and JavaScript.<br>
-🌐 Working in some projects from FrontEnd Mentor and Roadmap.sh<br/>
+🌐 Working in some projects from [FrontEnd Mentor](https://www.frontendmentor.io/) and [Roadmap.sh](https://roadmap.sh/)<br/>
 🤖 Sometimes I work with arduino for fun!
 
 
